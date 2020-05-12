@@ -28,7 +28,8 @@
 <div class="text-center">
 <h1 class="display-4">@ViewData["Title"]</h1>
 
-<p>This is where you calculate your Square-Root.</p>
+<p>Input your 'First Number' and 'Second Number' in the boxes below to carryout the Square-Root Calculation.</p>
+
 
 <div>
     <form asp-controller="Calc" asp-action="SqrRoot" method="POST">
@@ -40,6 +41,6 @@
 <br>
 @if(ViewBag.Result != null) {
     <div>
-        <p>The result is: @ViewBag.Result </p>
+        <p>@ViewBag.Result </p>
     </div>
 }
