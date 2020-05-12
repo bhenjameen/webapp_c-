@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\Coding\\Workshop\\Languages\\C#\\Code\\SqrRootWebApp\\SqrRootWebApp.csproj": {}
+    "C:\\Users\\USER\\Documents\\GitHub\\webapp_c-\\SqrRootWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\Coding\\Workshop\\Languages\\C#\\Code\\SqrRootWebApp\\SqrRootWebApp.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\webapp_c-\\SqrRootWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\Coding\\Workshop\\Languages\\C#\\Code\\SqrRootWebApp\\SqrRootWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\webapp_c-\\SqrRootWebApp.csproj",
         "projectName": "SqrRootWebApp",
-        "projectPath": "C:\\Users\\USER\\Documents\\Coding\\Workshop\\Languages\\C#\\Code\\SqrRootWebApp\\SqrRootWebApp.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\webapp_c-\\SqrRootWebApp.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\Coding\\Workshop\\Languages\\C#\\Code\\SqrRootWebApp\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\webapp_c-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
